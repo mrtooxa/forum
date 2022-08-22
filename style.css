@@ -1,0 +1,164 @@
+body {
+	background: #7f7f7f ;
+}
+
+.RectangleImage{
+position: absolute;
+height: 84px;
+width: 1905px;
+border-radius: 11px;
+
+background: #383737;
+border-radius: 11px;
+}
+
+.ButtonMein{
+position: absolute;
+width: 80px;
+height: 30px;
+top: 37px;
+left: 151px;
+
+background: #0;
+}
+.TextMein{
+
+width: 63px;
+height: 18px;
+top: 37px;
+left: 151px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 18px;
+
+color: #C8C8C8;
+
+}
+.ButtonSignIn{
+	position: absolute;
+width: 154px;
+height: 29px;
+top: 23px;
+left: 1559px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 18px;
+
+color: #C8C8C8;
+
+}
+.Avatar{
+position: absolute;
+width: 60px;
+height: 60px;
+top: 10px;
+left: 1700px;
+
+background: #ffff;
+}
+.InSide{
+	position: absolute;
+width: 1567.18px;
+height: 900px;
+top: 140px;
+left: 181.46px;
+
+background: #46424F;
+border-radius: 8px;
+}
+.Question1{
+position: absolute;
+width: 302.47px;
+height: 528.35px;
+top: 328px;
+left: 223px;
+
+background: #5E5E5E;
+border-radius: 20px;
+}
+.Question2{
+position: absolute;
+width: 302.47px;
+height: 528.35px;
+top: 328px;
+left: 808px;
+
+background: #5E5E5E;
+border-radius: 20px;
+
+}
+.Question3{
+	position: absolute;
+width: 302.47px;
+height: 528.35px;
+top: 328px;
+left: 1393px;
+
+background: #5E5E5E;
+border-radius: 20px;
+}
+.qu1{
+position: absolute;
+width: 288.86px;
+height: 27.17px;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.qu2{
+position: absolute;
+width: 270.71px;
+height: 27.17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.qu3{
+position: absolute;
+width: 319.11px;
+height: 51.32px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.ForumH1{
+	position: absolute;
+width: 1650px;
+height: 116.24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
